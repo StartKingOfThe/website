@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.1dca7ffc.css",
+    "main.js": "/website/static/js/main.d9202e68.js",
+    "static/media/primeicons.svg": "/website/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Montserrat-Bold.ttf": "/website/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/website/static/media/Montserrat-SemiBold.2f7a846126c7d5ee9163.ttf",
+    "static/media/OpenSans-Medium.ttf": "/website/static/media/OpenSans-Medium.f0cdede053a22b990af8.ttf",
+    "static/media/OpenSans-Regular.ttf": "/website/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-Bold.ttf": "/website/static/media/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/website/static/media/OpenSans-SemiBold.d7261533b9a545ddc769.ttf",
+    "static/media/primeicons.eot": "/website/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/website/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/website/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/airlines.jpg": "/website/static/media/airlines.8ae9a4170673cc99225f.jpg",
+    "static/media/primeicons.woff2": "/website/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/airport-with-airplane.svg": "/website/static/media/airport-with-airplane.c7d0836f113c8cd476fe.svg",
+    "static/media/spritesheet.svg": "/website/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
+    "static/media/airport.svg": "/website/static/media/airport.a44e96fa9ecad7f9ad88.svg",
+    "static/media/circle-arrive.svg": "/website/static/media/circle-arrive.f8738999d3011e9a365c.svg",
+    "index.html": "/website/index.html",
+    "static/media/take_off.svg": "/website/static/media/take_off.f5c1759ef3014bef6a3c.svg",
+    "static/media/radar.svg": "/website/static/media/radar.0b522ab56335b7cb38c6.svg",
+    "static/media/long.svg": "/website/static/media/long.69267058402f9d651ab5.svg",
+    "static/media/altitude.svg": "/website/static/media/altitude.fe9fe3c6484de6d4af94.svg",
+    "static/media/passenger.svg": "/website/static/media/passenger.d81fd4d0e6e08dce1e90.svg",
+    "static/media/arrive.svg": "/website/static/media/arrive.ef65a0d3cb3cf64ac763.svg",
+    "static/media/aircraft-progress.svg": "/website/static/media/aircraft-progress.0c133c2ec75c96dff6de.svg",
+    "static/media/calendar.svg": "/website/static/media/calendar.43af09f4d0c17ab029a5.svg",
+    "static/media/takeOff.svg": "/website/static/media/takeOff.41329fb1380a8e42b4d2.svg",
+    "static/media/departureAircraft.svg": "/website/static/media/departureAircraft.cf3b63690f20feca0a3c.svg",
+    "main.1dca7ffc.css.map": "/website/static/css/main.1dca7ffc.css.map",
+    "main.d9202e68.js.map": "/website/static/js/main.d9202e68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dca7ffc.css",
+    "static/js/main.d9202e68.js"
+  ]
+}

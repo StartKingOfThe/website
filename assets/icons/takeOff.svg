@@ -1,0 +1,17 @@
+<svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      viewBox="0 0 256 256"
+    >
+      <path
+        fill="#383768"
+        strokeMiterlimit="10"
+        d="M11.1 2.678c-.594.006-1.1.491-1.1 1.117v6.629L5.084 9.129l-.688-1.852A.721.721 0 003 7.53v2.612a2 2 0 001.488 1.933l14.66 3.887v-.004a1.5 1.5 0 10.635-2.93l-4.994-1.336-2.611-8.234a1.117 1.117 0 00-1.078-.78zM4 19a1 1 0 000 2h16a1 1 0 000-2z"
+        fontFamily="none"
+        fontSize="none"
+        fontWeight="none"
+        textAnchor="none"
+        transform="scale(10.66667)"
+      ></path>
+    </svg>
